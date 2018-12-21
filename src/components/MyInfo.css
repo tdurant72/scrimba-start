@@ -1,0 +1,9 @@
+.main{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.header{
+    color:purple;
+    font-weight: 600;
+    font-size: 2em;
+}
